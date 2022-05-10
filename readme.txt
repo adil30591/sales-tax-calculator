@@ -1,0 +1,1 @@
+Put main.py and test.txt in any location and run via python command
